@@ -1,0 +1,3 @@
+What are continuations?
+-> It's used to convert code that is not compatible with async/await to the code that is actually compatible.
+-> It allows you to convert a completion handler-based asynchronous function into an async function.
